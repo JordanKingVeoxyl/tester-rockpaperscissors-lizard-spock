@@ -34,3 +34,11 @@ body {
     color: #333;
 }
 
+.result-selection {
+    opacity: .5s;
+}
+
+.result-selection.winner {
+    opacity: 1;
+    font-size: 1.5rem;
+}
